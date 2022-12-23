@@ -1,0 +1,6 @@
+framework module Pods_FirebaseSetUp {
+  umbrella header "Pods-FirebaseSetUp-umbrella.h"
+
+  export *
+  module * { export * }
+}

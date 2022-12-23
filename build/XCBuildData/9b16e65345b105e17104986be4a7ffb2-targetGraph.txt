@@ -1,0 +1,19 @@
+Target dependency graph (7 targets)
+PromisesObjC in Pods, no dependencies
+GoogleUtilities in Pods, depends on:
+PromisesObjC in Pods (explicit)
+nanopb in Pods, no dependencies
+GoogleAppMeasurement in Pods, depends on:
+GoogleUtilities in Pods (explicit)
+nanopb in Pods (explicit)
+GoogleUserMessagingPlatform in Pods, no dependencies
+Google-Mobile-Ads-SDK in Pods, depends on:
+GoogleAppMeasurement in Pods (explicit)
+GoogleUserMessagingPlatform in Pods (explicit)
+Pods-FirebaseSetUp in Pods, depends on:
+Google-Mobile-Ads-SDK in Pods (explicit)
+GoogleAppMeasurement in Pods (explicit)
+GoogleUserMessagingPlatform in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+PromisesObjC in Pods (explicit)
+nanopb in Pods (explicit)
