@@ -8,7 +8,7 @@ target 'FirebaseSetUp' do
   # Pods for FirebaseSetUp
 	
     pod 'Google-Mobile-Ads-SDK'
-    # pod 'Firebase/Analytics'
+    pod 'Firebase/Analytics'
 
 
 end
